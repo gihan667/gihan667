@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Gihan Lakshan
-***
+
 ### A Selft Taught Programmer
 
 - 🔭 I’m currently working on [Helium](https://helium.lk/), [Code Crafts](https://www.youtube.com/channel/UCcQSKnZzQ0CcXpBJvIQcOzg)
