@@ -3,9 +3,9 @@
 ### A Selft Taught Programmer
 
 - 🔭 I’m currently working on [Helium](https://helium.lk/), [Code Crafts](https://www.youtube.com/channel/UCcQSKnZzQ0CcXpBJvIQcOzg)
-- 🌱 I’m currently learning **Ionic, Swift, Flutter
-- 👯 I’m looking to collaborate with **other content creators
-- 📫 How to reach me: **gihanlakshan276@gmail.com
+- 🌱 I’m currently learning **Ionic, Swift, Flutter**
+- 👯 I’m looking to collaborate with **other content creators**
+- 📫 How to reach me: **gihanlakshan276@gmail.com**
 
 #### Connect With Me
 
