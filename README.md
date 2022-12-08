@@ -2,10 +2,11 @@
 
 ### A Self Taught Programmer
 
-- 🔭 I’m currently working on **[Helium](https://helium.lk/), [Code Crafts](https://www.youtube.com/channel/UCcQSKnZzQ0CcXpBJvIQcOzg)**
-- 🌱 I’m currently learning **Ionic, Swift, Flutter**
+- 🔭 I’m currently working on **[CodeTech](https://www.facebook.com/codetechus), [Code Crafts](https://www.youtube.com/channel/UCcQSKnZzQ0CcXpBJvIQcOzg)**
+- 🌱 I’m currently working with **Ionic, Swift, Flutter, Blockchain, NodeJS, React**
 - 👯 I’m looking to collaborate with **other content creators**
 - 📫 How to reach me: **gihanlakshan276@gmail.com**
+- ⚡ Fun fact: My Hobby is Stargazing, checkout my Astrophotography page **[Facebook](https://www.facebook.com/celestialeyephotos), [Instagram](https://www.instagram.com/celestialeyephotos/)**
 
 #### Connect With Me
 
