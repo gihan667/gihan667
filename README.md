@@ -2,7 +2,7 @@
 
 ### A Self Taught Programmer
 
-- 🔭 I’m currently working on **[CodeTech](https://www.facebook.com/codetechus), [Code Crafts](https://www.youtube.com/channel/UCcQSKnZzQ0CcXpBJvIQcOzg)**
+- 🔭 I’m currently working on **[Code Crafts](https://www.youtube.com/channel/UCcQSKnZzQ0CcXpBJvIQcOzg)**
 - 🌱 I’m currently working with **Ionic, Swift, Flutter, Blockchain, NodeJS, React**
 - 👯 I’m looking to collaborate with **other content creators**
 - 📫 How to reach me: **gihanlakshan276@gmail.com**
